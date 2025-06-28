@@ -21,7 +21,7 @@ The Ford SYNC system on some older models runs on Microsoft WINCE. This project 
 
 - **`/TC`**: Contains the Total Commander application for WINCE (`cecmd.exe`), along with its language packs and plugins.
 
-- **`/NaviMaps`**: Contains files for what appears to be an alternative navigation that can be used to replace the original navigation app by MapmyIndia.
+- **`/NaviMaps`**: Contains files the original navigation app by MapmyIndia. These files allow us to disguise the other directories as a map update to the infotainment system.
 
 ## Basic Usage
 
@@ -30,5 +30,5 @@ The Ford SYNC system on some older models runs on Microsoft WINCE. This project 
 4.  Insert the prepared USB drive into available USB port in the infotainment system.
 5.  Go to Settings > General > Map Update > Yes (make sure the engine is running while contents are being copied).
 6.  If anything goes wrong, you will have to manually copy the files from the USB drive to the infotainment system by opening the dashboard unit within the car that houses the infotainment system.
-7.  Go to Settings > General > Map Path - Select \Storage Card\LaunchAutoKit\Arthur.exe to launch the Autokit application.
+7.  Go to Settings > General > Map Path - Select \SDMEM\LaunchAutoKit\Arthur.exe to launch the Autokit application.
 8.  Confirm the app works by connecting the Carlinkit CPC200-CCPM/CCPA dongle to the USB port in the infotainment system.
