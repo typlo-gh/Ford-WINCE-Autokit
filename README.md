@@ -1,6 +1,6 @@
 # Ford WINCE AutoKit Project
 
-## READ: https://aakarshit.ca/posts/car-hacks-101-diy-apple-carplay-in-a-ford-ecosport-for-30-dollars/ before proceeding!
+## READ: https://aakarshit.ca/posts/car-hacks-101-diy-apple-carplay-in-a-ford-ecosport/ before proceeding!
 
 This repository contains the necessary files to run CarPlay and Android Auto on Ford infotainment systems powered by the Windows CE (WINCE) operating system, using a Carlinkit CPC200-CCPM/CCPA USB dongle.
 
